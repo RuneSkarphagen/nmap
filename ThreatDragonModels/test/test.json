@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "test",
+    "owner": "Rune Skarphagen",
+    "description": "Test of owasp threat dragon"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
